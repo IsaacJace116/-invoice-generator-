@@ -6,7 +6,6 @@ Create professional invoices in seconds — right from your phone!
 
 **[Download Invoice Generator APK](https://github.com/IsaacJace116/-invoice-generator-/raw/main/invoice-generator.apk)**
 
-*Note: Make sure to rename your APK file to `invoice-generator.apk` when uploading*
 
 ---
 
@@ -40,12 +39,6 @@ Create professional invoices in seconds — right from your phone!
 2. Open the file on your Android phone
 3. Tap "Install" (allow unknown sources if asked)
 4. Open and start creating invoices!
-
----
-
-## 🖼️ Screenshots
-
-*[Add screenshots here by uploading images to your repo]*
 
 ---
 
